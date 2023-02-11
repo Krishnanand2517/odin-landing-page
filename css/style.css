@@ -99,6 +99,7 @@ li a {
     height: 200px;
     border: #3882f6 solid 2px;
     border-radius: 8px;
+    background-size: cover;
 }
 
 .info-header {
@@ -106,4 +107,20 @@ li a {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+}
+
+.card1 {
+    background-image: url("../img/pexels-screen-post-gadgets.jpg");
+}
+
+.card2 {
+    background-image: url("../img/pexels-cottonbro-studio-support.jpg");
+}
+
+.card3 {
+    background-image: url("../img/pexels-ksenia-chernaya-install.jpg");
+}
+
+.card4 {
+    background-image: url("../img/pexels-fauxels-passion.jpg");
 }
