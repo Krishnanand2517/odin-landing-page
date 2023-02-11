@@ -49,6 +49,10 @@ ul {
     align-items: flex-start;
 }
 
+.right {
+    align-self: center;
+}
+
 .hero-main-text {
     font-size: 48px;
     font-weight: 900;
@@ -75,8 +79,8 @@ li a {
 }
 
 .hero-section img {
-    width: 700px;
-    height: 300px;
+    width: 400px;
+    height: 200px;
 }
 
 .info-section {
