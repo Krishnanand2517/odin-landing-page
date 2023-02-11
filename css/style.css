@@ -188,3 +188,10 @@ li a {
     justify-content: flex-end;
     align-items: center;
 }
+
+footer {
+    background-color: #1f2937;
+    padding: 15px 0;
+    text-align: center;
+    color: #e5e7eb;
+}
